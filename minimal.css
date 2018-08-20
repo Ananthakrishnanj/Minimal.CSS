@@ -1,0 +1,127 @@
+/* <<<<<<<<<<<<Minimal CSS Framework>>>>>>>>>>>>>>
+Author: Anantha Krishnan J
+Version: 1.0
+Last Updated: 20-08-2018 */
+
+
+/* Column CSS */
+.col-1
+{
+    float: left;
+    width: 8.33%;
+}
+
+.col-2
+{
+    float: left;
+    width: 16.66%;
+}
+
+.col-3
+{
+    float: left;
+    width: 25%;
+}
+
+.col-4
+{
+    float: left;
+    width: 33.32%;
+}
+
+.col-6
+{
+    float: left;
+    width: 50%;
+}
+
+.col-9
+{
+    float: left;
+    width: 75%;
+}
+
+.col-12
+{
+    float: left;
+    width: 100%;
+}
+
+
+/* ClearFix CSS */
+.clear
+{
+    clear: both;
+    display: table;
+}
+
+
+/* Remove anchor link */
+.nodecoration
+{
+    text-decoration: none;
+    color: white;
+}
+
+
+/* Float CSS */
+.fl-r
+{
+    float: right;
+}
+
+.fl-l
+{
+    float: left;
+}
+
+
+/* Position CSS */
+.pos-fixed
+{
+    position: fixed;
+}
+
+.pos-relative
+{
+    position: relative;
+}
+
+.pos-absolute
+{
+    position: absolute;
+}
+
+
+/* Align text CSS */
+.align-center
+{
+    text-align: center;
+}
+
+.align-left
+{
+    text-align: left;
+}
+
+.align-right
+{
+    text-align: right;
+}
+
+
+/* Display CSS */
+.block
+{
+    display: block;
+}
+
+.inline
+{
+    display: inline;
+}
+
+.inline-block
+{
+    display: inline-block;
+}
